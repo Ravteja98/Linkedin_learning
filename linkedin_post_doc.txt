@@ -1,0 +1,185 @@
+How to post in linkedin with natural way, I am gonna write some good content on how to post on a linkedin and can we watched by the MSP's (Managed Service Provider) or a recruiter.
+
+The Fundamental idea of this is to increase your visibility and trying to say the platform that you can sell yourself with potentiallity.
+
+"Help yourself by helping others"
+
+Three Fundamental rules of helping people.
+
+1. It will help people to feel hopefull
+2. Knowledge is shared so reading it will entertain people
+3. Help people save the time and effort so that they can follow you.
+
+------------- Now you Know, What ? why are you posting ? ----------------------------------
+------------- You need to know how to post ? in order to satisy the above conditions ---------------------
+
+Two ways of sharing the post
+
+Share your own story and a moment, just any ancedote were you are being recognised and you want to share that feeling.
+
+The next one is share your work/learning/findings any thing.
+
+Applies to student and professionals. 
+
+Lets say if you are not doing anything and starting to do then explore your tech and let the network know, bro this is what I am doing at life.
+
+------------------------------------------------------------------- 
+
+Lets examine the 3 * 2 ways of posting going with 
+
+1. Share your story or moment to help people feel hopeful.
+
+Read this :
+					I was JOBLESS for 9 months at the age of 26. With a 20K education loan and a long-distance relationship of 3 years to save.	It was a dark winter. 
+					Here’s how I made it to the bright summer to become loan free, happily married, and a ‘wanted data professional’ in the market.
+
+ --- Author says that everybodies life is interesting its how you express it expressively this is gonna motivate and create a hope. 
+ 
+-------------------------------------------------------------------------
+
+2. Share your story or moment to help people feel entertained. 
+ 
+Read this: 
+						My wife (a respiratory therapist by profession) knows nothing about CODING.
+						One day she stopped by my desk and asked "What are you working on exactly?" and I said,
+						"Coding in Python 😊".
+
+Explaining the tech spec or any concept to the non tech people the conversations are funny and productive.
+
+---------------------------------------------------------------------------
+3. Share your story or moment to help people save time and effort: 
+
+Read This: 
+				During an interview, I allow a candidate to use the internet to get help on code syntax etc. I pay attention to what exactly they search for. It helps me understand how they navigate through an abundance of information on the internet to find the necessary ingredients for accomplishing a given task. After all, that’s exactly what they will be doing after they are hired!
+				In short: Search Skill > Memorization Skill
+
+The above post has been reached and reacted by almost 15K people. Whats going on the above post, Dhaval is just sharing his thought of allowing an 
+interviewee to use internet to check the synatx in order to manipulate your question and give an outcome, he concluded it saying that's what we are gonna do in the real time industry. 
+
+----------------------------------------------------------------------
+4. Share your work/learning/findings to help people feel hopeful 
+
+Read This: 
+			Posted by Naveen, what he has done is 
+			When you love what you do, nothing seems like a burden 💤Here is my submission for the October month #codebasicstreamschallenge.
+			This time the dataset provided by codebasics is from an FMCG company's supply chain team, in which we have to track the five major key metrics.(In terms of takes, I have reduced the count from 40+ takes in my first video to 25+ takes in this video 💤)*. 
+			Obviously, speaking in front of a camera is not as easy as I thought at first, but I'm trying to get better step by step. 💤
+			#codebasics #codebasicschallenge #supplychain #sql #powerbi #data #datascience #datavisualization #FMCG #analytics #naveen_s
+			
+The author of the post Naveen has build a project on code basics accordingly and have shared the insights accordingly. It doesnt have to be perfect 
+just give a try.
+
+
+PS: For above all add the hashtags accordingly. 
+---------------------------------------------------------------------------
+5. Share your work/learning/findings to help people feel entertained:
+
+Go through the link: https://www.instagram.com/reel/C50qbK-vvyd/ so that you can see that was the post and how did it make the people feel entertained or the zeal to use the tools. 
+
+-----------------------------------------------------------------------------
+6. Share your work/learning/findings to help people to save their time and effort: 
+
+Read This: 	
+			First of all, thank you everyone for appreciating me regarding my previous #codebasicsresumeprojectchallenge. Regarding that challenge, I have received 150 responses, messages, and doubts. I hope I have tried my best to clear your doubts. While going through those doubts, I want to share my procedure and way of sharing.
+
+The author is Sravani, here what did sravani do exactly, she build a project from Codebasics, and she has shared the process or the methodologies in an modular approach so that the people who want to try can do it by saving the time and effort. 
+
+Lets do this in my style, suppose you are installing a tech spec in your local and your using a windows laptop, if you face some dependcy issues or any other counter errors or system errors and you have resolved and installed the tech, you can share those errors and the workarounds to resolve those issues as they are common on someone's machine with windows or mac os accordingly. With this post the person can save time and effort. 
+--------------------------------------------------------------------------------------------------------------------
+
+Lets discuss some ADVANCE HACKS or ADVANCE GROWTH :
+
+Other aspects of creating the post, what suppliments are used to boost your profile. 
+
+5 advance tips. 
+
+1. Use your online personality : it is something like same as your offline personality but in a different universe. 
+
+one of the traits is how you are expressing? - EXPRESS STRONGLY: 
+
+READ THIS : I have never met someone who became a data analyst in three days. BEWARE OF THOSE WORKSHOPS. 
+
+If you oppose or if you are supporting any thing be strong and express that with strong vocabulary. Other thing to remember, people who read and agree to your opinion will be your follower not everyone on the platform will be your follower the one who supports that opinion will be your follower. 
+----------------------------------------------------------------------------------------------------------------------
+2. Share your moments/stories periodically: 
+
+		Share about your acendote in order to show your personality, as it matters a lot to attract the people and become your followers once they understand you. 
+		some thing like you collectiong stamps, cards or anything in your childish which is like a memory and how you felt. 
+		
+------------------------------------------------------------------------------------------------------------------------
+3.Write for a specific audience: **This is a priority one.** 
+
+Dont write generic, Find a niche in the category.
+
+First think what you wanna become in the feild of data, it might be anything, choose that and you need to post on the same designation or topic from the 
+foundation to advance keep posting only on that tech. Author started with EXCEL VS POWER BI. 
+
+
+
+Here the author is mainly focusing on BI developing saying you need to target a particular audience group so that they can boost your profile in the direction you choose it also keeps your audeince intact, so he is posting on power bi from foundation to advanced concepts making it interesting. 
+--------------------------------------------------------------------------------------------------------------------------------
+4. VERY IMPORTANT TIP OF ALL THE ABOVE: TEMPLATING: TEMPLATE IS A PREDEFINED DOCUMENT OR A FORMAT YOU WILL BE USING THIS FORMAT FOR ALL YOUR POSTS. 
+
+If you ask me how does a template look like, it looks like a BURGER, layered one by one, 
+
+TOP BUN of a BURGER. ------ HERE COMES YOUR INTRO -- HOW ARE YOU GONNA WRITE IT ? it should be in such a way that it is SCROLL STOPPER or a HOOK.
+
+If your scrolling your linkedin, you stop at a post and read it why ? Thats the kind of thing you need to have in your content. 
+
+In the middle: The meat or the veggies, here you keep your "VALUE" of the post.(VALUE =  WHAT EVER YOU WANNA CONVEY? should be here,) SO SCROLL STOPPER IS DIRECTLY PROPORTIONAL ON THE VALUE, in order to reach your value, people should find your title as scroll stopper as linkedin will show only top 3 rows of your post..show more.
+
+People show your action. what next ? 
+
+
+OUTRO: CTA (A call to action (CTA)) - 
+
+
+READ THIS: 
+
+			POSTED BY HEMANAND CODEBASICS
+			
+			INTRO - The scroll Stopper was : Lets Normalize 'Career Gap' in 2023
+											 Career Gap doesnt mean a Learning GAP
+											 
+			the intro looks good as per the job market we have plenty of people with career gaps here the audiences will react your post. 
+			
+			Value: It happens due to genuine reasons such as job search, maternity, bereavement, etc.
+				   And one still learns a lot during this period which can be used at work.
+				   Great job by LinkedIn in providing a feature to add this. I have added mine ✅
+				   While hiring, I commit to consider and value the learnings made during the career gap.
+			
+			In the value the author explained why ? what is the reason for the career gap
+			
+			OUTRO : (CTA)
+					
+					Who is with me? ✅
+					
+			He simply asked to support the post with asking whose is supporting me
+-------------------------------------------------------------------------------------------------------------------------------
+5. FREE TEMPLATE: HOW TO USE, PLEASE FORK MY PUBLIC REPO Named LINKEDIN_LEARNING so that you can get the pdf to your local and can Scrutinize it
+
+https://github.com/Ravteja98/Linkedin_learning
+
+you have listicle of things to do and the listicle of things to avoid doing. Please go through the pdf throughly you have the link to the concered posts in the pdf. You also have a HOOK DATABSE where you can create your own hooks and the scroll stopper. 
+----------------------------------------------------------------------------------------------------------------------------------
+6. TIP ULTIMATE : YOU SHOULD HAVE SHOULD SOURCE OF CONTENT AND CONSISTENCY IN ORDER TO GROW. 
+
+	In order to do this you need to do is PROJECT CHALLENGES, LINK IS ADDED FOR THE RESUME PROJECT CHALLENGES. CONTENT on WHAT TO POST, posting projects
+	SS from JAY Charole who cracked a job with the RESUME PROJECT CHALLENGES to get you inspired. 
+
+BE active on DISCORD and STACK OVERFLOW. 
+--------------------------------------------------------------------------------------------------------------------------------------
+
+FREE TOOLS : CANVA - EDIT
+			 PUBLER - ORCHESTRATE THE POST.
+			 NOVI PRO  (BUILD YOUR PORTFOLIO)
+			 TWEMEX - CONTENT INSPIRATION (https://www.justinwelsh.me/newsletter/5-tools-for-better-faster-content) - USE in your post.
+----------------------------------------------------------------------------------------------------------------------------------------------
+	
+		
+		
+
+
+
+ 
+
